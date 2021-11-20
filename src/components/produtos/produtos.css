@@ -1,0 +1,12 @@
+#produtos {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: row;
+    align-items: stretch;
+  }
+
+  #produtos > :nth-child(n) {
+      margin: 10px;
+  }

@@ -1,0 +1,12 @@
+body, .corpo, .conteudo {
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;
+}
+
+.conteudo {
+    margin-top: 3%;
+    margin-bottom: 3%;
+    padding-left: 5vw;
+    padding-right: 5vw;
+}
